@@ -1,0 +1,10 @@
+{
+  "app_id": "venture-factory-test",
+  "zeos_registry": "https://github.com/rgsuarez/zeOS/blob/main/apps/REGISTRY.json",
+  "soul_location": "zeOS:apps/venture-factory-test/VENTURE_FACTORY_TEST_SOUL.md",
+  "kernel_version": "live",
+  "architecture": "federated_reference",
+  "created": "2025-12-25T14:53:52Z",
+  "scaffolded_by": "scaffold.py v2.0.0",
+  "note": "This app boots with live zeOS kernel. No version pinning."
+}
